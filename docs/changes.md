@@ -919,7 +919,8 @@
 - Use the highest possible compression rate for ramdisk, hope to fix some devices with no boot partition space
 - Detect boot partition space insufficient, will abort installer instead of breaking your device
 
-### [v2 (2016.8.9)](https://xdaforums.com/t/magisk-general-support-discussion.3432382/post-68108058)
+### [v2 (2016.8.9)](https://xdaforums
+.com/t/magisk-general-support-discussion.3432382/post-68108058)
 
 - Fix verity patch. It should now work on all devices (might fix some of the unable-to-boot issues)
 - All scripts will now run in selinux permissive mode for maximum compatibility (this will **NOT** turn your device to permissive)
